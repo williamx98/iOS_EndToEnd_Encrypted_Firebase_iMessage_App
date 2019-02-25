@@ -5,11 +5,11 @@ This is an iMessage clone app built to show an implementation of end-to-end encr
 Time spent: **4** days spent in total
 
 ## Features
-End-To-End encryption
-Real-time messaging
-Message deletion
-Account Creation
-Keyboard interactivity (scroll to hide keyboard)
+End-To-End encryption  
+Real-time messaging  
+Message deletion  
+Account Creation  
+Keyboard interactivity (scroll to hide keyboard)  
 
 
 ## Video Walkthrough
