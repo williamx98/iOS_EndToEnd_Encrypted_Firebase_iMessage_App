@@ -17,8 +17,10 @@ Keyboard interactivity (scroll to hide keyboard)
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/williamx98/iOS_EndToEnd_Encrypted_Firebase_iMessage_App/blob/master/demo.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
+<p float="left">
 <img src='https://github.com/williamx98/iOS_EndToEnd_Encrypted_Firebase_iMessage_App/blob/master/login.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
+<img src='https://github.com/williamx98/iOS_EndToEnd_Encrypted_Firebase_iMessage_App/blob/master/keyboard.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+</p>
 
 ## License
 
